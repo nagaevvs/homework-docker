@@ -1,8 +1,5 @@
-
-
 Задание 3
 
-1.
 1.
 PS C:\Users\Vladimir> docker pull node:15.14
 15.14: Pulling from library/node
